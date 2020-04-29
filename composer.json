@@ -1,0 +1,16 @@
+{
+    "name": "gcp/big_query",
+    "description": "course big query with google cloud platform",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "111gilberth",
+            "email": "43097345+111gilberth@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "google/cloud-bigquery": "dev-master"
+    }
+}
